@@ -6,7 +6,7 @@ output:
     toc_float: true
 
 ---
-
+ 
 # Here are some plots
 
 You can make plots in the same way as always.
